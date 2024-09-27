@@ -1,4 +1,6 @@
-# The following script is licenced under CC BY-NC-SA 4.0.
+# THIS PROJECT IS ABANDONED! FOR A BETTER VERSION, SEE FLAPPY BIRD V2!
+
+# The following script is licensed under the MIT license.
 # Flappy Bird Python © 2024 by Earth1283 is licensed under CC BY-NC-SA 4.0.
 # This game has been known to be highly addictive, so please play this under your own discreetion
 # Game recommended for 0+
